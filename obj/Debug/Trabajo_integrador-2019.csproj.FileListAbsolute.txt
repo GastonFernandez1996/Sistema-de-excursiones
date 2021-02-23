@@ -1,0 +1,15 @@
+C:\Users\Fernandez\Documents\SharpDevelop Projects\Trabajo_integrador-2019\Trabajo_integrador-2019\bin\Debug\Trabajo_integrador-2019.exe
+C:\Users\Fernandez\Documents\SharpDevelop Projects\Trabajo_integrador-2019\Trabajo_integrador-2019\bin\Debug\Trabajo_integrador-2019.pdb
+C:\Users\Fernandez\Documents\SharpDevelop Projects\Trabajo_integrador-2019\Trabajo_integrador-2019\obj\Debug\Trabajo_integrador-2019.csprojResolveAssemblyReference.cache
+C:\Users\Fernandez\Documents\SharpDevelop Projects\Trabajo_integrador-2019\Trabajo_integrador-2019\obj\Debug\Trabajo_integrador-2019.exe
+C:\Users\Fernandez\Documents\SharpDevelop Projects\Trabajo_integrador-2019\Trabajo_integrador-2019\obj\Debug\Trabajo_integrador-2019.pdb
+C:\Users\Alumnos-UNAJ\Downloads\Trabajo_integrador-2019\bin\Debug\Trabajo_integrador-2019.exe
+C:\Users\Alumnos-UNAJ\Downloads\Trabajo_integrador-2019\bin\Debug\Trabajo_integrador-2019.pdb
+C:\Users\Alumnos-UNAJ\Downloads\Trabajo_integrador-2019\obj\Debug\Trabajo_integrador-2019.csprojResolveAssemblyReference.cache
+C:\Users\Alumnos-UNAJ\Downloads\Trabajo_integrador-2019\obj\Debug\Trabajo_integrador-2019.exe
+C:\Users\Alumnos-UNAJ\Downloads\Trabajo_integrador-2019\obj\Debug\Trabajo_integrador-2019.pdb
+E:\Facultad\Algoritmo y programacion\Trabajo integrador 2019\Trabajo algoritmo\Trabajo_integrador-2019\bin\Debug\Trabajo_integrador-2019.exe
+E:\Facultad\Algoritmo y programacion\Trabajo integrador 2019\Trabajo algoritmo\Trabajo_integrador-2019\bin\Debug\Trabajo_integrador-2019.pdb
+E:\Facultad\Algoritmo y programacion\Trabajo integrador 2019\Trabajo algoritmo\Trabajo_integrador-2019\obj\Debug\Trabajo_integrador-2019.exe
+E:\Facultad\Algoritmo y programacion\Trabajo integrador 2019\Trabajo algoritmo\Trabajo_integrador-2019\obj\Debug\Trabajo_integrador-2019.pdb
+E:\Facultad\Algoritmo y programacion\Trabajo integrador 2019\Trabajo algoritmo\Trabajo_integrador-2019\obj\Debug\Trabajo_integrador-2019.csprojResolveAssemblyReference.cache

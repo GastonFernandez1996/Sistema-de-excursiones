@@ -1,0 +1,10 @@
+E:\Facultad\Algoritmo y programacion\Trabajo integrador 2019\Trabajo algoritmo\Trabajo_integrador-2019\bin\Debug\Sistema_Excursiones.exe
+E:\Facultad\Algoritmo y programacion\Trabajo integrador 2019\Trabajo algoritmo\Trabajo_integrador-2019\bin\Debug\Sistema_Excursiones.pdb
+E:\Facultad\Algoritmo y programacion\Trabajo integrador 2019\Trabajo algoritmo\Trabajo_integrador-2019\obj\Debug\Sistema_Excursiones.csprojResolveAssemblyReference.cache
+E:\Facultad\Algoritmo y programacion\Trabajo integrador 2019\Trabajo algoritmo\Trabajo_integrador-2019\obj\Debug\Sistema_Excursiones.exe
+E:\Facultad\Algoritmo y programacion\Trabajo integrador 2019\Trabajo algoritmo\Trabajo_integrador-2019\obj\Debug\Sistema_Excursiones.pdb
+E:\Facultad\Algoritmo y programacion\Trabajo integrador 2019\Trabajo algoritmo\Sistema_Excursiones\bin\Debug\Sistema_Excursiones.exe
+E:\Facultad\Algoritmo y programacion\Trabajo integrador 2019\Trabajo algoritmo\Sistema_Excursiones\bin\Debug\Sistema_Excursiones.pdb
+E:\Facultad\Algoritmo y programacion\Trabajo integrador 2019\Trabajo algoritmo\Sistema_Excursiones\obj\Debug\Sistema_Excursiones.csprojResolveAssemblyReference.cache
+E:\Facultad\Algoritmo y programacion\Trabajo integrador 2019\Trabajo algoritmo\Sistema_Excursiones\obj\Debug\Sistema_Excursiones.exe
+E:\Facultad\Algoritmo y programacion\Trabajo integrador 2019\Trabajo algoritmo\Sistema_Excursiones\obj\Debug\Sistema_Excursiones.pdb
